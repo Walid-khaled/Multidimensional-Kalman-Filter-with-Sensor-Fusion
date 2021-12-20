@@ -1,5 +1,5 @@
 ## Multidimensional-Kalman-Filter-with-Sensor-Fusion
-In this repository, 8-point algorithm is used to find the fundamental matrix based on SVD. Disparity map is generated from left and right images. In addition, RealSense depth camera 435i is used to estimate object center depth. Image thresholding and object detection are implemented. It is apart of Assignment3 in Sensing, Perception and Actuation course for ROCV master's program at Innopolis University.
+In this repository, Multidimensional Kalman Filter and sensor fusion are implemented to predict the trajectories for constant velocity model. Data is extracted from GPS and Accelerometer using mobile phone. It is apart of Assignment3 in Sensing, Perception and Actuation course for ROCV master's program at Innopolis University.
 
 ---
 ### Task description
