@@ -18,5 +18,4 @@ Take your smart phone and run for about 100 meters with a constant speed approxi
 ```
 
 <p align="center">Kalman Filter Loop</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146700043-ca8a8f8d-65df-436a-b153-11d364ced7e1.png" /></p>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146700185-9d656892-e439-4ca5-adf7-998fe47b04ac.png" /></p>
